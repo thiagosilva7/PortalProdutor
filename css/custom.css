@@ -1,0 +1,51 @@
+body {
+  background-image: url("../img/back02.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+#mainform {
+  padding-top: 40px;
+}
+
+#btnentra img {
+  cursor: pointer;
+  margin-top: 50px;
+  width: 130px;
+  height: 40px;
+  color: rgb(3, 51, 90);
+  font-weight: 500;
+}
+
+#minilogo {
+  padding: 40px 55px 0;
+}
+
+#textminilogo h5 {
+  padding: 60px 30px 0;
+  color: white;
+}
+
+#minilogo img {
+  max-width: 80px;
+  width: auto;
+}
+
+#mainform input{
+
+  color: white;
+}
+
+
+
+footer {
+  text-align: center;
+  background-color: rgb(12, 71, 160);
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+footer p {
+  color: white;
+}
